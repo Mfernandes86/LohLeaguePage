@@ -100,10 +100,6 @@
     
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQlgs4ZxFSG9ftelc3WnKCPE4h5_ZhA1dI0C4rfQG1GVp4nxJd8Xcsa_aWIRpl1w-2uZr6zTkBqHXhh/pub?embedded=true" frameborder="0" width="100%" height="800"></iframe>
 
-<br>
-<br>
-<h1 class="noUnderscore">LEAGUE OF HEROES LEDGER </h1>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbaD3YEMXQCkUWyfMBA1oLwDo-uMCjR5RijCQZo7tObaJt6JhFzSpVlPTZ1zgO-5DuMmIy4laewKai/pubhtml?widget=true&amp;headers=false" width="100%" height="650"></iframe>
 
 </div>
