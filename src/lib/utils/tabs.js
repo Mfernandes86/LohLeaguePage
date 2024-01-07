@@ -12,28 +12,6 @@ export const tabs = [
         dest: `https://docs.google.com/forms/d/e/1FAIpQLSfMQ2hmhso52W2f_tiOeQUCtX9KsXpM2F5bCGAhTkYq6V7zqQ/viewform`, 
     },
     {
-        icon: 'view_comfy',
-        label: 'LOH Links',
-        nest: true,
-        children: [
-            {
-                icon: 'history_edu',
-                label: 'League Bylaws',
-                dest: '/constitution',
-            },
-            {
-                icon: 'history_edu',
-                label: 'League Ledger',
-                dest: 'https://docs.google.com/spreadsheets/d/1WwZzN1_jnfM1en74GF-QaWMJtS7zCh9qO4YpVPALxkY/',
-            },
-            {
-                icon: 'local_fire_department',
-                label: 'LeagueSafe Dues',
-                dest: 'https://www.leaguesafe.com/league/4098591',
-            }
-        ]
-    },
-    {
         icon: 'sports',
         label: 'Matchups',
         dest: '/matchups',
@@ -50,7 +28,7 @@ export const tabs = [
     },
     {
         icon: 'view_comfy',
-        label: 'League Data',
+        label: 'League of Heroes Info',
         nest: true,
         children: [
             {
@@ -87,6 +65,21 @@ export const tabs = [
                 icon: 'military_tech',
                 label: 'Records',
                 dest: '/records',
+            },
+            {
+                icon: 'history_edu',
+                label: 'League Bylaws',
+                dest: '/constitution',
+            },
+            {
+                icon: 'history_edu',
+                label: 'League Ledger',
+                dest: 'https://docs.google.com/spreadsheets/d/1WwZzN1_jnfM1en74GF-QaWMJtS7zCh9qO4YpVPALxkY/',
+            },
+            {
+                icon: 'local_fire_department',
+                label: 'LeagueSafe Dues',
+                dest: 'https://www.leaguesafe.com/league/4098591',
             },
             {
                 icon: 'sports_football',
