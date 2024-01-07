@@ -102,7 +102,8 @@
 
 <br>
 <br>
+<h1 class="noUnderscore">LEAGUE OF HEROES LEDGER </h1>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbaD3YEMXQCkUWyfMBA1oLwDo-uMCjR5RijCQZo7tObaJt6JhFzSpVlPTZ1zgO-5DuMmIy4laewKai/pubhtml?widget=true&amp;headers=false" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbaD3YEMXQCkUWyfMBA1oLwDo-uMCjR5RijCQZo7tObaJt6JhFzSpVlPTZ1zgO-5DuMmIy4laewKai/pubhtml?widget=true&amp;headers=false" width="100%" height="650"></iframe>
 
 </div>
