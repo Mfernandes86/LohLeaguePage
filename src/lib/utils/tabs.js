@@ -9,12 +9,12 @@ export const tabs = [
     {
         icon: 'article', 
         label: 'Form Submission',
-        dest: 'https://docs.google.com/forms/d/e/1FAIpQLSfMQ2hmhso52W2f_tiOeQUCtX9KsXpM2F5bCGAhTkYq6V7zqQ/viewform', 
+        dest: `https://docs.google.com/forms/d/e/1FAIpQLSfMQ2hmhso52W2f_tiOeQUCtX9KsXpM2F5bCGAhTkYq6V7zqQ/viewform`, 
     },
     {
         icon: 'article', // 
         label: 'LOH League Ledger',
-        dest: 'https://docs.google.com/spreadsheets/d/1WwZzN1_jnfM1en74GF-QaWMJtS7zCh9qO4YpVPALxkY/', 
+        dest: `https://docs.google.com/spreadsheets/d/1WwZzN1_jnfM1en74GF-QaWMJtS7zCh9qO4YpVPALxkY`, 
     },
     {
         icon: 'sports',
