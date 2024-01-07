@@ -103,6 +103,6 @@
 <br>
 <br>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbaD3YEMXQCkUWyfMBA1oLwDo-uMCjR5RijCQZo7tObaJt6JhFzSpVlPTZ1zgO-5DuMmIy4laewKai/pubhtml?widget=true&amp;headers=false" width="800" height="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbaD3YEMXQCkUWyfMBA1oLwDo-uMCjR5RijCQZo7tObaJt6JhFzSpVlPTZ1zgO-5DuMmIy4laewKai/pubhtml?widget=true&amp;headers=false" width="100%" height="800"></iframe>
 
 </div>
