@@ -8,7 +8,7 @@ export const tabs = [
     },
     {
         icon: 'history_edu', 
-        label: 'Form Submission',
+        label: '2024 Form Submission',
         dest: `https://forms.office.com/e/MLG0WmtwsF`, 
     },
     {
